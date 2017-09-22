@@ -21,12 +21,15 @@
 ## Project Setup
 To setup this project on your local computer if you have git installed run the command on your terminal
 
-##Requirements
+## Requirements
 
 Install Git on your Computer
 Install a Text Editor(Atom is recommended)
 Web Browser, Google Chrome
 Notepad, Scratch
+
+## Specifications
+
 
 ##License
 

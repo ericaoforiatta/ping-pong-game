@@ -1,11 +1,11 @@
 $(document).ready(function() {
   $("#blanks form").submit(function(event) {
-    var person1Input = $("input#person1").val();
-    var person2Input = $("input#person2").val();
+    var oddnumberInput = $("input#oddnumber").val(ping);
+    var evennumberInput = $("input#evennumber").val(pong);
 
 
-    $(".person1").text(person1Input);
-    $(".person2").text(person2Input);
+    $(".oddnumber").text(person1Input);
+    $(".evennumber").text(person2Input);
 
 
     $("#story").show();
