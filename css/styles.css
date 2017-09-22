@@ -1,0 +1,10 @@
+.pongimage{
+  background: url(../images/Ping_Pong_HD_48.jpg);
+  color: white;
+  text-align: center;
+  background-size: cover;
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.pong1{}
