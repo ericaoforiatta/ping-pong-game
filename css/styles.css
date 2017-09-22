@@ -1,10 +1,37 @@
-.pongimage{
-  background: url(../images/Ping_Pong_HD_48.jpg);
-  color: white;
-  text-align: center;
-  background-size: cover;
-  height: 1000px;
-  background-position: center;
-  background-repeat: no-repeat;
+body{
+  background-color: black;
 }
-.pong1{}
+/*remove bullets from list,browser default setting and add color*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #DC143C;
+    padding: 14px;
+}
+
+.headerimage{
+background: url(../images/Ping_Pong_HD_48.jpg);
+background-size: cover;
+width: auto;
+height: 650px;
+padding-top: 0px;
+z-index: -1;
+}
+.headerimage h2{
+  color: white;
+  font-style: italic;
+}
+
+
+.header {
+    height:100px;
+    width:100%;
+    margin:0px auto;
+    position: fixed;
+}
+.header h3{
+  color: white;
+  text-align: left;
+font-style: italic;
+}
